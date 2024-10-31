@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#624E88</color> <!-- Ungu gelap -->
+    <color name="colorPrimaryVariant">#8967B3</color> <!-- Ungu terang -->
+    <color name="colorSecondary">#CB80AB</color> <!-- Pink -->
+    <color name="colorSecondaryVariant">#E6D9A2</color> <!-- Kuning muda -->
+
+    <!-- Background and Surface Colors (optional) -->
+    <color name="colorBackground">#E6D9A2</color> <!-- Sama seperti Secondary Variant -->
+    <color name="colorSurface">#FFFFFF</color> <!-- Latar belakang putih sebagai permukaan umum -->
+
+    <!-- Text Colors -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- Teks pada warna Primary -->
+    <color name="colorOnSecondary">#FFFFFF</color> <!-- Teks pada warna Secondary -->
+    <color name="colorOnBackground">#624E88</color> <!-- Teks pada Background -->
+    <color name="colorOnSurface">#624E88</color> <!-- Teks pada permukaan umum -->
+</resources>
